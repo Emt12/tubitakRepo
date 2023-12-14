@@ -1,2 +1,2 @@
 # tubitakRepo
-Do not clone
+Do not clone this repo please
